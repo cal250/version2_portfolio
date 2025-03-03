@@ -2,7 +2,7 @@
 date: '0'
 title: 'Gura'
 cover: './image.png'
-github: 'https://github.com/Angelosewase/Gura'
+github: 'https://github.com/cal250/E-commerce'
 external: 'https://gura-kappa.vercel.app/'
 tech:
   - React
