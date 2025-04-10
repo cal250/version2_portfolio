@@ -1,7 +1,7 @@
 ---
 date: '2020-03-27'
-title: 'Chat buddies'
-github: 'https://github.com/Angelosewase/chat-buddies'
+title: 'IDMAN Extension'
+github: https://github.com/cal250/ID-MAN_extension-
 external: ''
 tech:
   - react
@@ -10,10 +10,10 @@ tech:
   - jest
   - socket io
   - golang
-  - chi  
-  - mysql 
-company: 'chatBuddies'
+  - chi
+  - mysql
+company: 'softsol'
 showInProjects: true
 ---
 
-ChatBuddies is a platform that connects users for meaningful conversations and support. It fosters community and helps build lasting connections through messaging.
+IDMAN Extension is an extension that scans a cetain site and retrives information for dowload to access locally.

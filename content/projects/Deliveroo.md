@@ -1,16 +1,16 @@
 ---
 date: '2020-03-27'
-title: 'Deliveroo (clone)'
+title: 'Threader-Tool'
 github: 'https://github.com/Angelosewase/deliveroo-clone'
 external: ''
 tech:
-  - react native(expo)
   - tailwindCss(nativeWind)
   - redux
   - typescript
+  - java
 
-company: 'deliveroo'
+company: 'softsol'
 showInProjects: true
 ---
 
-Deliveroo clone was developed to simulate a food delivery platform, providing hands-on experience in building dynamic user interfaces, API integrations, and managing complex workflows.
+Threader-Tool is a tool Developed to make reports by accessing a database and then print out the information in the database in Excel.

@@ -1,7 +1,7 @@
 ---
 date: '2020-03-27'
-title: 'Plant disease detection system'
-github: 'https://github.com/Angelosewase/pdts'
+title: 'Drone_Model'
+github: 'https://github.com/cal250/Drone_P_A'
 external: ''
 tech:
   - opencv_python_headless
@@ -13,4 +13,4 @@ company: 'pdts'
 showInProjects: true
 ---
 
-machine learning and  image processing, to identify and diagnose diseases in plants for timely and effective management.
+Computer vision model Ai , that facilitates in seeding by processing the clouds for suitable seeding .

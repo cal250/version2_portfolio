@@ -1,18 +1,19 @@
 ---
 date: '2020-03-27'
-title: 'Doct'
-github: 'https://github.com/Angelosewase/ride-share'
+title: 'Care_Pulse'
+github: 'https://github.com/cal250/patient_management'
 external: ''
 tech:
   - react native(expo)
   - tailwindCss(nativeWind)
   - redux
-  - jest 
-  - nestjs 
+  - jest
+  - nestjs
   - typescript
-  - postgres  
-  - prisma 
+  - postgres
+  - prisma
 company: 'doct'
 showInProjects: true
 ---
-Doct is a platform that helps doctors manage appointments, communicate with patients, and streamline healthcare services.
+
+Care_pulse is a platform that helps doctors manage appointments, communicate with patients, and streamline healthcare services.

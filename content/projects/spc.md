@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
 title: 'sp shop'
-github: 'https://github.com/Angelosewase/polymer-pr'
+github: 'https://github.com/cal250/E-commerce'
 external: ''
 tech:
-  - polymer js 
+  - polymer js
   - css
   - gulp
   - chai
-company: 'guraKappa'
+company: 'Commerce'
 showInProjects: true
 ---
 
