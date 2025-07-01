@@ -84,7 +84,7 @@ const Footer = () => (
 
     <StyledCredit tabindex="-1">
       <a href="https://github.com/Angelosewase">
-        <div>Designed Brittany Chiang &amp; Built by Jean Calvin</div>
+        <div> Built by Jean Calvin</div>
       </a>
     </StyledCredit>
   </StyledFooter>
